@@ -1,10 +1,12 @@
-#PERBEDAAN FUNGSIONAL PROGRAMING DAN OOP (OBJECT ORIENTED PROGRAMING)
+# PERBEDAAN FUNGSIONAL PROGRAMING DAN OOP (OBJECT ORIENTED PROGRAMING)
 
 NAMA: WAHYU OZORAH MANURUNG
+
 NPM : G1A022060
+
 CLASS : B
 
-#Penjelasan umum 
+# Penjelasan umum 
 Functional Programming adalah pemograman tersktuktur denga menggunakan fungsi matematika murni dan data tidak berubah. 
 Kelebihan functional programming 
 1.	Pure fuction sehingga lebih mudah dipahami karena tidak mengubah apapun dan hanya bergantung pada inputan. 
@@ -13,7 +15,7 @@ Kelebihan functional programming
 
 Object-Oriented Programming atau OOP adalah suatu metode pemograman yang berorientasi pada objek. Pada OOP, fungsi dan variable dibungkus dalam sebuah objek atau class yang dapat saling berinteraksi sehingga membentuk sebuah program. 
 
-#Perbedaan Functional Programming dan OOP
+# Perbedaan Functional Programming dan OOP
 
 A.	Functional programming
 
